@@ -2,6 +2,7 @@
 This project addresses this issue by leveraging machine learning techniques to predict patient survival rates within hospital settings
 
 DATA UNDERSTANDING
+
 We extracted patient survival prediction data (‘[Accuracy 92.5% | Prediction of Patient Survival](https://www.kaggle.com/code/shahzaibmalik44/accuracy-92-34-prediction-of-patient-survival/input)’) from Kaggle to conduct our analysis.
 
 The dataset comprises 85 variables, offering insights into factors typically recorded during a patient’s hospitalization. These factors play a role in determining whether the patient will survive.

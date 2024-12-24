@@ -1,3 +1,4 @@
+
 # Predicting-In-Hospital-Mortality-Unveiling-Insights-with-Machine-Learning
 This project addresses this issue by leveraging machine learning techniques to predict patient survival rates within hospital settings
 
@@ -13,3 +14,11 @@ The dataset comprises 85 variables, offering insights into factors typically rec
 
   
 a. It’s important to note that the variables containing ‘APACHE’ refer to the [Acute Physiology and Chronic Health Evaluation](https://reference.medscape.com/calculator/12/apache-ii), which is a severity-of-disease classification system commonly used in intensive care units to assess the severity of illness in critically ill patients. It provides a numerical score based on several physiological parameters including age and chronic health conditions.
+
+REFERENCES:
+
+https://www.npr.org/sections/health-shots/2016/06/15/481992191/dying-in-a-hospital-means-more-procedures-tests-and-costs#:~:text=The%20study%20showed%20that%2042,an%20emergency%20room%20was%20fourth
+
+https://today.tamu.edu/2022/01/03/study-covid-19-hospitalization-costs-outcomes-in-2020-improved-over-time/
+
+https://auburncrest.com/how-much-does-hospice-care-cost/
